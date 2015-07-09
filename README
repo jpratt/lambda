@@ -1,0 +1,5 @@
+LAMBDA functions
+
+AWS lambda function for various tasks
+
+S3toAPIcall.js - When a file is added to the assigned S3 bucket, the filename is sent as a get request to a REST API route
